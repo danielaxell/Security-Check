@@ -1,4 +1,1 @@
-FILE="D:\xampp\xampp_8.1.4\htdocs\laravel_project\laravel8_security_check_oracle_kirim_perak\db_security_check\db_security_check.dmp"
-LOG="D:\xampp\xampp_8.1.4\htdocs\laravel_project\laravel8_security_check_oracle_kirim_perak\db_security_check\exp_db_security_check.log"
-OWNER=('SECURITY_CHECK')
-FEEDBACK=1000
+
