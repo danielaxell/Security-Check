@@ -1,0 +1,41 @@
+
+Connected to: Oracle Database 21c Express Edition Release 21.0.0.0.0 - Production
+Version 21.3.0.0.0
+
+Export file created by EXPORT:V18.00.00 via conventional path
+
+Warning: the objects were exported by SYS, not by you
+
+import done in WE8MSWIN1252 character set and AL16UTF16 NCHAR character set
+import server uses AL32UTF8 character set (possible charset conversion)
+IMP-00403: 
+
+Warning: This import generated a separate SQL file "C:\MAGANG PELINDO\pkl\penerimaan1\db_security_check\import_db_security_check_sys.sql" which contains DDL that failed due to a privilege issue.
+
+. . importing table                  "FAILED_JOBS"          0 rows imported
+. . importing table                         "JOBS"          0 rows imported
+. . importing table                   "MIGRATIONS"          3 rows imported
+. . importing table       "PERSONAL_ACCESS_TOKENS"          0 rows imported
+. . importing table                     "TB_AKSES"         39 rows imported
+. . importing table                    "TB_DIVISI"        639 rows imported
+. . importing table                 "TB_EKSPEDISI"         14 rows imported
+. . importing table                "TB_KARTUAKSES"          1 rows imported
+. . importing table                      "TB_MENU"          6 rows imported
+. . importing table                 "TB_MENU_ROLE"         15 rows imported
+. . importing table               "TB_PAKETKELUAR"          0 rows imported
+. . importing table          "TB_PAKETKELUAR_HIST"          0 rows imported
+. . importing table                "TB_PAKETMASUK"          0 rows imported
+. . importing table           "TB_PAKETMASUK_HIST"          0 rows imported
+. . importing table                   "TB_PEGAWAI"       2070 rows imported
+. . importing table                      "TB_ROLE"          4 rows imported
+. . importing table                   "TB_SESSION"          2 rows imported
+. . importing table                   "TB_SUBMENU"         18 rows imported
+. . importing table              "TB_SUBMENU_MENU"         18 rows imported
+. . importing table                      "TB_TAMU"          0 rows imported
+. . importing table                 "TB_TAMUHADIR"          0 rows imported
+. . importing table            "TB_TAMUHADIR_HIST"          0 rows imported
+. . importing table                  "TB_TERMINAL"         90 rows imported
+. . importing table                      "TB_USER"       2554 rows imported
+. . importing table                 "TB_USER_ROLE"          1 rows imported
+About to enable constraints...
+Import terminated successfully with warnings.
